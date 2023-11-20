@@ -1,7 +1,8 @@
 # DC_LondonFitness-Website
 
 
-Visit DC London Fitness.
+Visit site: [Visit DC London Fitness.](https://655b14c08c6c875d0154f8e7--starlit-faun-16b785.netlify.app/)
+
 
 DC London Fitness
 Welcome to DC London Fitness – Your Personalized Fitness Journey!
@@ -28,6 +29,6 @@ Contact Daniel Turbak-Charles for more information or to get started on your fit
 Contact
 DC London Fitness
 
-Email: your-email@example.com
+Email: dc_londonfitness@outlook.com
 Contributing
 If you have suggestions, issues, or contributions, feel free to open a pull request or create an issue. Your input is valuable in making DC London Fitness a supportive platform for individuals seeking a healthier lifestyle.
